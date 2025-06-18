@@ -1,0 +1,6 @@
+# 闲置间隔 单位：秒
+idle_time: 3
+# 点击后的状态持续时间 单位：秒
+clicked_state_time: 3
+# 拖动时是否更改状态 True:更改 False:不更改
+draging_state_isupdate: True
